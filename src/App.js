@@ -9,8 +9,8 @@ import SearchIcon from './search.svg';
 
 //https://www.youtube.com/watch?v=b9eMGE7QtTk
 
-//API Key 34539510
-const API_URL = 'http://www.omdbapi.com/?apikey=34539510'
+//API Key 
+const API_URL = 'http://www.omdbapi.com/?apikey=keygoeshere'
 
 /*const movie1 = {
     "Title": "Aprile",
@@ -83,6 +83,5 @@ const App = () => {
       </div>
   );
 }
-
 
 export default App;
